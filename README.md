@@ -11,6 +11,12 @@ The **Netflix Content Strategy Dashboard** is a comprehensive, interactive data 
 
 ---
 
+## 🎬 Demo
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://netflix-content-strategy-dashboard-nupabwa9bcadg5idqwngek.streamlit.app/
+
+---
+
 ## 💼 Business Case
 
 **Problem Statement:**
